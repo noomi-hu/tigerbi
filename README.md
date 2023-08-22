@@ -8,3 +8,5 @@
 使用死信队列来处理异常情况，将图表生成任务置为失败;
 接口限流;
 图表数据分表存储，提高查询灵活性。
+# 项目架构图
+![image](https://github.com/noomi-hu/tigerbi/assets/103087006/f996c8e0-d8bf-43db-9205-37bf6cc46873)
